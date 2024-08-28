@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://florin.antimaterie.ro:443/sitemap.xml
