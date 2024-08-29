@@ -4,9 +4,9 @@
 <meta property="og:url" content="{{ .Permalink }}" />
 {{- if .Params.cover.image -}}
 {{- if (ne .Params.cover.relative true) }}
-<meta property="og:image" content="{{ .Params.cover.image | absURL }}" />
+<meta property="og:image" content="{{ .Params.cover.image | relURL }}" />
 {{- else}}
-<meta property="og:image" content="{{ (path.Join .RelPermalink .Params.cover.image ) | absURL }}" />
+<meta property="og:image" content="{{ (path.Join .RelPermalink .Params.cover.image ) | relURL }}" />
 {{- end}}
 {{- else }}
 
@@ -27,7 +27,7 @@
 {{- with .Params.locale }}<meta property="og:locale" content="{{ . }}" />{{ end }}
 {{- with site.Params.title }}<meta property="og:site_name" content="{{ . }}" />{{ end }}
 {{- with .Params.videos }}{{- range . }}
-<meta property="og:video" content="{{ . | absURL }}" />
+<meta property="og:video" content="{{ . | relURL }}" />
 {{ end }}{{ end }}
 
 {{- /* If it is part of a series, link to related articles */}}

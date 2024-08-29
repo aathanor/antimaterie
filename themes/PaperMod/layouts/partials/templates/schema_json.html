@@ -6,7 +6,7 @@
   "name": {{ site.Title }},
   "url": {{ site.Home.Permalink }},
   "description": {{ site.Params.description | plainify | truncate 180 | safeHTML }},
-  "thumbnailUrl": {{ site.Params.assets.favicon | default "favicon.ico" | absURL }},
+  "thumbnailUrl": {{ site.Params.assets.favicon | default "favicon.ico" | relURL }},
   "sameAs": [
     {{- if site.Params.schema.sameAs }}
       {{ range $i, $e := site.Params.schema.sameAs }}{{ if $i }}, {{ end }}{{ trim $e " " }}{{ end }}
@@ -76,9 +76,9 @@
   {{ if .Params.cover.image -}}
   "image":
     {{- if (ne .Params.cover.relative true) -}}
-    {{ .Params.cover.image | absURL }},
+    {{ .Params.cover.image | relURL }},
     {{- else -}}
-    {{ (path.Join .RelPermalink .Params.cover.image ) | absURL }},
+    {{ (path.Join .RelPermalink .Params.cover.image ) | relURL }},
     {{- end}}
   {{- else }}
     {{- $images := partial "partials/templates/_funcs/get-page-images" . -}}
@@ -114,7 +114,7 @@
     "name": {{ site.Title }},
     "logo": {
       "@type": "ImageObject",
-      "url": {{ site.Params.assets.favicon | default "favicon.ico" | absURL }}
+      "url": {{ site.Params.assets.favicon | default "favicon.ico" | relURL }}
     }
   }
 }

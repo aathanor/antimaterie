@@ -33,7 +33,7 @@
     {{- else }}
       {{- $imgs = $imgs | append (dict
         "RelPermalink" (relURL $img)
-        "Permalink" (absURL $img)
+        "Permalink" (relURL $img)
       ) }}
     {{- end }}
   {{- else }}

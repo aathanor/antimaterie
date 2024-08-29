@@ -26,7 +26,7 @@
 			{{ $size := (add (mul (div $value.Count $biggest) (sub $max $min)) $min) }}
 			{{ $size := (cond (eq $biggest $smallest) $min $size) }}
 			<a style="font-size: {{ $size }}rem;"
-				href="{{ $.Site.LanguagePrefix | absURL }}{{ $data.Plural }}/{{ $value.Name | urlize }}/">{{ $value.Name
+				href="{{ $.Site.LanguagePrefix | relURL }}{{ $data.Plural }}/{{ $value.Name | urlize }}/">{{ $value.Name
 				}}<sup>{{ $value.Count }}</sup></a>
 			{{ end }}
 		</div>
