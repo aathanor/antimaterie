@@ -1,22 +1,37 @@
 backend:
-  name: github
-  repo: aathanor/antimaterie
-  branch: main # Branch to update (optional; defaults to master)
-  base_url: https://antimaterie.ro
-  auth_endpoint: /api/auth
+	name: github
+	repo: aathanor/antimaterie
+	branch: main # Branch to update (optional; defaults to master)
+	base_url: https://antimaterie.ro
+	auth_endpoint: /api/auth
 media_folder: "static/images/uploads"
 public_folder: ""/images/uploads""
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'content/blog'
-    create: true
-    slug: '{{slug}}'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+	- name: 'blog'
+	label: 'Blog'
+	folder: 'content/blog'
+	create: true
+	slug: '{{slug}}'
+	editor:
+		preview: false
+	fields:
+		- { label: 'Title', name: 'title', widget: 'string' }
+		- { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
+		- { label: 'Publish Date', name: 'date', widget: 'datetime' }
+		- { label: 'Description', name: 'description', widget: 'string' }
+		- { label: 'Body', name: 'body', widget: 'markdown' }
+
+      	  
+	- name: 'posts'
+	label: 'Posts'
+	folder: 'content/posts'
+	create: true
+	slug: '{{slug}}'
+	editor:
+		preview: true
+	fields:
+		- { label: 'Title', name: 'title', widget: 'string' }
+		- { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
+		- { label: 'Publish Date', name: 'date', widget: 'datetime' }
+		- { label: 'Description', name: 'description', widget: 'string' }
+		- { label: 'Body', name: 'body', widget: 'markdown' }
