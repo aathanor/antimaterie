@@ -1,6 +1,6 @@
 ---
 title: post de test din decap
-draft: false
+draft: true
 date: "{{now}}"
 ---
 corp
