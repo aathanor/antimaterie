@@ -27,7 +27,7 @@ collections:
     create: true
     slug: '{{slug}}'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
 	  - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
