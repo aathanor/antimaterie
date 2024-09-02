@@ -7,6 +7,8 @@ theme = "gokarna"
 # Automatically generate robots.txt
 enableRobotsTXT = true
 
+showTableOfContents = true
+
 [menu]
   [[menu.main]]
     # Unique identifier for a menu item
@@ -27,15 +29,13 @@ enableRobotsTXT = true
     weight = 1
 
   [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+	
+  [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
-    weight = 2
-    
-  [[menu.main]]
-    identifier = "github"
-    url = "https://github.com"
     weight = 3
-    
-    # We use feather-icons: https://feathericons.com/
-    pre = "<span data-feather='github'></span>"
