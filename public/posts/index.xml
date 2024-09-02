@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Antimaterie</title>
-    <link>//florin.antimaterie.ro/posts/</link>
+    <link>//192.168.100.77:1313/posts/</link>
     <description>Recent content in Posts on Antimaterie</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
+    <image>
+      <title>Antimaterie</title>
+      <url>//192.168.100.77:1313/images/papermod-cover.png</url>
+      <link>//192.168.100.77:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.133.0</generator>
+    <language>en</language>
     <lastBuildDate>Sun, 01 Sep 2024 11:25:42 +0000</lastBuildDate>
-    <atom:link href="//florin.antimaterie.ro/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//192.168.100.77:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TRU</title>
-      <link>//florin.antimaterie.ro/posts/blog/tru/</link>
+      <link>//192.168.100.77:1313/posts/blog/tru/</link>
       <pubDate>Sun, 01 Sep 2024 11:25:42 +0000</pubDate>
-      <guid>//florin.antimaterie.ro/posts/blog/tru/</guid>
-      <description>Aici scrie TRU. Ar trebui un text mai lung</description>
+      <guid>//192.168.100.77:1313/posts/blog/tru/</guid>
+      <description>Cel mai optimist pesimist dintre toți!</description>
     </item>
   </channel>
 </rss>
