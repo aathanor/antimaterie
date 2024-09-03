@@ -3,6 +3,8 @@ title: Una nouă din Decap cu noile configurari
 draft: false
 date: 2024-09-03 09:21
 ---
+## Înainte de code block acum e un headline frumușel
+
 ```
 collections: # A list of collections the CMS should be able to edit
   - name: 'posts' # Used in routes, ie.: /admin/collections/:slug/edit
