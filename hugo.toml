@@ -85,33 +85,14 @@ showTableOfContents = true
 
 	  [params.homeInfoParams]
 	  Title = "Ce e Antimaterie, de ce și pentru cine?"
-	  Content = """
-	Antimaterie e un blog colectiv care dă o voce celor care au altă poziție decât ceea ce devine pe zi ce trece dogma obligatorie a unei entități tehnocratice oligarhice care distruge democrația în numele salvării ei. El e gândit pentru a fi ușor de citit și ușor de actualizat de fiecare contributor în parte. E construit pe o platformă fiabilă și rapidă și găzduit distribuit.
-	
-	- **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
-	- Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
-	- PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
-	"""
+	  Content = """Antimaterie e un blog colectiv care dă o voce celor care au altă poziție decât ceea ce devine pe zi ce trece dogma obligatorie a unei entități tehnocratice oligarhice care distruge democrația în numele salvării ei. El e gândit pentru a fi ușor de citit și ușor de actualizat de fiecare contributor în parte. E construit pe o platformă fiabilă și rapidă și găzduit distribuit."""
 
-	  [[params.socialIcons]]
-	  name = "github"
-	  title = "View Source on Github"
-	  url = "https://github.com/adityatelange/hugo-PaperMod"
 
 	  [[params.socialIcons]]
 	  name = "Discord"
 	  title = "Join discord community"
 	  url = "https://discord.gg/ahpmTvhVmp"
 
-	  [[params.socialIcons]]
-	  name = "X"
-	  title = "Share PaperMod on X/Twitter"
-	  url = "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
-
-	  [[params.socialIcons]]
-	  name = "KoFi"
-	  title = "Buy me a Ko-Fi :)"
-	  url = "https://ko-fi.com/adityatelange"
 
 	  [params.editPost]
 	  URL = "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"

@@ -20,6 +20,8 @@
     <loc>//192.168.100.77:1313/posts/prima_postare/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//192.168.100.77:1313/archives/</loc>
+  </url><url>
     <loc>//192.168.100.77:1313/categories/</loc>
   </url><url>
     <loc>//192.168.100.77:1313/posts/hello-world/</loc>
