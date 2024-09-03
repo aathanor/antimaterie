@@ -39,8 +39,15 @@
       <link>//192.168.100.77:1313/posts/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//192.168.100.77:1313/posts/hello-world/</guid>
-      <description>Ăsta e bun definitiv!. Quisque vulputate nibh sodales eros pretium tincidunt. Aenean porttitor efficitur convallis. Nulla sagittis finibus convallis. Phasellus in fermentum quam, eu egestas tortor. Maecenas ac mollis leo. Integer maximus eu nisl vel sagittis.
-Suspendisse facilisis, mi ac scelerisque interdum, ligula ex imperdiet felis, a posuere eros justo nec sem. Nullam laoreet accumsan metus, sit amet tincidunt orci egestas nec. Pellentesque ut aliquet ante, at tristique nunc. Donec non massa nibh.</description>
+      <description>&amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD
+Ăsta e bun definitiv!. Quisque vulputate nibh sodales eros pretium tincidunt. Aenean porttitor efficitur convallis. Nulla sagittis finibus convallis. Phasellus in fermentum quam, eu egestas tortor. Maecenas ac mollis leo. Integer maximus eu nisl vel sagittis. Hello World! Ăsta e din Decap!, consectetur adipiscing elit. Ut non lorem diam. Quisque vulputate nibh sodales eros pretium tincidunt. Aenean porttitor efficitur convallis. Nulla sagittis finibus convallis. Phasellus in fermentum quam, eu egestas tortor.</description>
+    </item>
+    <item>
+      <title>Una nouă din Decap cu noile configurari</title>
+      <link>//192.168.100.77:1313/posts/2024-09-03-una-nou%C4%83-din-decap-cu-noile-configurari/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//192.168.100.77:1313/posts/2024-09-03-una-nou%C4%83-din-decap-cu-noile-configurari/</guid>
+      <description>collections: # A list of collections the CMS should be able to edit - name: &amp;#39;posts&amp;#39; # Used in routes, ie.: /admin/collections/:slug/edit label: &amp;#39;Posts&amp;#39; # Used in the UI label_singular: &amp;#39;Post&amp;#39; # Used in the UI, ie: &amp;#34;New Post&amp;#34; description: &amp;gt; The description is a great place for tone setting, high level information, and editing guidelines that are specific to a collection. folder: &amp;#39;content/posts&amp;#39; slug: &amp;#39;{{year}}-{{month}}-{{day}}-{{slug}}&amp;#39; summary: &amp;#39;{{title}} -- {{year}}/{{month}}/{{day}}&amp;#39; create: true # Allow users to create new documents in this collection view_filters: - label: Posts With Index field: title pattern: &amp;#39;This is post #&amp;#39; - label: Posts Without Index field: title pattern: front matter post - label: Drafts field: draft pattern: true view_groups: - label: Year field: date pattern: \d{4} - label: Drafts field: draft fields: # The fields each document in this collection have - { label: &amp;#39;Title&amp;#39;, name: &amp;#39;title&amp;#39;, widget: &amp;#39;string&amp;#39;, tagname: &amp;#39;h1&amp;#39; } - { label: &amp;#39;Draft&amp;#39;, name: &amp;#39;draft&amp;#39;, widget: &amp;#39;boolean&amp;#39;, default: false } - { label: &amp;#39;Publish Date&amp;#39;, name: &amp;#39;date&amp;#39;, widget: &amp;#39;datetime&amp;#39;, format: &amp;#39;YYYY-MM-DD HH:mm&amp;#39;, default: &amp;#39;{{now}}&amp;#39;, } - label: &amp;#39;Cover Image&amp;#39; name: &amp;#39;image&amp;#39; widget: &amp;#39;image&amp;#39; required: false tagname: &amp;#39;&amp;#39; - { label: &amp;#39;Body&amp;#39;, name: &amp;#39;body&amp;#39;, widget: &amp;#39;markdown&amp;#39;, hint: &amp;#39;Main content goes here.</description>
     </item>
   </channel>
 </rss>

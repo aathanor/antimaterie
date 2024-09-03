@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Una nouă din Decap cu noile configurari</title>
+  </head>
+  <body>
+    <h1>Una nouă din Decap cu noile configurari</h1>
+    <p class="date">0001-01-01 00:00:00 &#43;0000 UTC</p>
+    <p class="description"></p>
+    <article class="content">
+      <pre tabindex="0"><code>collections: # A list of collections the CMS should be able to edit
+  - name: &#39;posts&#39; # Used in routes, ie.: /admin/collections/:slug/edit
+    label: &#39;Posts&#39; # Used in the UI
+    label_singular: &#39;Post&#39; # Used in the UI, ie: &#34;New Post&#34;
+    description: &gt;
+      The description is a great place for tone setting, high level information, and editing
+      guidelines that are specific to a collection.
+    folder: &#39;content/posts&#39;
+    slug: &#39;{{year}}-{{month}}-{{day}}-{{slug}}&#39;
+    summary: &#39;{{title}} -- {{year}}/{{month}}/{{day}}&#39;
+    create: true # Allow users to create new documents in this collection
+    view_filters:
+      - label: Posts With Index
+        field: title
+        pattern: &#39;This is post #&#39;
+      - label: Posts Without Index
+        field: title
+        pattern: front matter post
+      - label: Drafts
+        field: draft
+        pattern: true
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Drafts
+        field: draft
+    fields: # The fields each document in this collection have
+      - { label: &#39;Title&#39;, name: &#39;title&#39;, widget: &#39;string&#39;, tagname: &#39;h1&#39; }
+      - { label: &#39;Draft&#39;, name: &#39;draft&#39;, widget: &#39;boolean&#39;, default: false }
+      - {
+          label: &#39;Publish Date&#39;,
+          name: &#39;date&#39;,
+          widget: &#39;datetime&#39;,
+          format: &#39;YYYY-MM-DD HH:mm&#39;,
+          default: &#39;{{now}}&#39;,
+        }
+      - label: &#39;Cover Image&#39;
+        name: &#39;image&#39;
+        widget: &#39;image&#39;
+        required: false
+        tagname: &#39;&#39;
+
+      - { label: &#39;Body&#39;, name: &#39;body&#39;, widget: &#39;markdown&#39;, hint: &#39;Main content goes here.&#39; }
+</code></pre>
+    </article>
+  </body>
+</html>

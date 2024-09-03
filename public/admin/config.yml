@@ -5,9 +5,9 @@ backend:
   base_url: https://antimaterie.ro
   auth_endpoint: /api/auth
 
-site_url: https://192.168.100.77:1313
+site_url: https://antimaterie.ro
 
-publish_mode: editorial_workflow
+publish_mode: simple
 media_folder: static/images/uploads
 public_folder: /images/uploads
 
@@ -252,9 +252,9 @@ collections: # A list of collections the CMS should be able to edit
               - { label: 'Image', name: 'image', widget: 'image' }
               - { label: 'File', name: 'file', widget: 'file' }
   - name: pages # a nested collection
-    label: Pages
-    label_singular: 'Page'
-    folder: _pages
+    label: Blog
+    label_singular: 'Blog'
+    folder: content/blog
     create: true
     nested: { depth: 100 }
     fields:
