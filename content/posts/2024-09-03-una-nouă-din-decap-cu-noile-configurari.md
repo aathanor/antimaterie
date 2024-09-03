@@ -1,6 +1,6 @@
 ---
 title: Una nouă din Decap cu noile configurari
-draft: true
+draft: false
 date: 2024-09-03 09:21
 ---
 ```
