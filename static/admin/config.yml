@@ -5,7 +5,7 @@ backend:
   base_url: https://antimaterie.ro
   auth_endpoint: /api/auth
 
-site_url: aathanor/antimaterie
+site_url: 192.168.100.77:1313
 
 publish_mode: editorial_workflow
 media_folder: static/images/uploads
