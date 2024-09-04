@@ -4,6 +4,8 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
   base_url: https://antimaterie.ro
   auth_endpoint: /api/auth
+  auth_scope: repo # this is needed to fork the private repo
+  open_authoring: true
 
 site_url: https://antimaterie.ro
 
