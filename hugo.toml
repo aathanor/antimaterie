@@ -21,6 +21,7 @@ showTableOfContents = true
 
 	[languages.ro]
 	languageCode = 'ro-RO'
+	contentDir = "content"
 	weight = 1
 	disabled = false
 	languageDirection = 'ltr'
