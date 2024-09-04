@@ -2,7 +2,9 @@
 title: Un Distilat mai lung
 draft: false
 date: 2024-09-04 14:41
-image: /images/uploads/dall·e-2024-08-31-20.13.22-a-16x16-pixel-favicon-design-for-a-website-named-antimatter.-the-design-features-a-minimalistic-abstract-representation-of-a-split-atom-or-particle.webp
+author: Florin
+cover:
+	image: /images/uploads/dall·e-2024-08-31-20.13.22-a-16x16-pixel-favicon-design-for-a-website-named-antimatter.-the-design-features-a-minimalistic-abstract-representation-of-a-split-atom-or-particle.webp
 ---
 Moise, trăind în timp, ca noi tot, i, s-a văzut nevoit să “povestească” viziunea primită a Creat, iei s, i implicit să o structureze temporal, altfel ea ar fi devenit neinteligibilă pentru cei care-l urmau. Însă “începutul” din primul paragraf e doar ordinea \[ˆ4] decisă de Dumnezeu s, i nu curgerea implacabilă în care e imersată cons, tiint, a noastră, pe care o numim “timp” s, i care e, cu mare probabilitate, un artefact produs de limitele cons, tiint, ei. (la finalul textului problema timpului e abordată mai pe larg) În sensul ăsta trebuie să vedem “începutul” s, i curgerea zilelor nu temporal s, i cauzal ci doar ca expresie a voint, ei divine care impune ordinea divină.\[ˆ5] Momentul init, ial al creat, iei fiind în afara timpului dar în acelas, i timp momentul fondator al Lumii, el poate fi prezent în fiecare clipă a timpului trăit de noi, repetat în întreaga eternitate; cu alte cuvinte Creat, ia nu e un eveniment “istoric”, asupra căruia avem o relatare mai mult sau mai put, in precisă. Istoria s, i timpul încep odată cu căderea lui Adam s, i al Evei s, i dobândirea cons, tiint, ei umane după ce sunt păcălit, i de s, arpe. Creat, ia însăs, i e în afara timpului as, a cum e el generat de cons, tiint, a umană.
 
