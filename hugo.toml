@@ -24,22 +24,22 @@ showTableOfContents = true
 	[minify]
 	disableXML = true
 
-	[languages.en]
-	languageName = "English"
+	[languages.ro]
+	languageName = "Romanian"
 	weight = 1
 
-	  [languages.en.taxonomies]
-	  category = "categories"
+	  [languages.ro.taxonomies]
+	  category = "categorii"
 	  tag = "tags"
-	  series = "series"
+	  series = "serii"
 
-	[[languages.en.menu.main]]
-	name = "Blog"
+	[[languages.ro.menu.main]]
+	name = "Distilat"
 	url = "blog"
 	weight = 5
 
-	[[languages.en.menu.main]]
-	name = "Posts"
+	[[languages.ro.menu.main]]
+	name = "Flux"
 	url = "posts/"
 	weight = 10
 
