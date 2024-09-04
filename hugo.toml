@@ -3,7 +3,7 @@ title = 'Antimaterie'
 
 theme = "PaperMod"
 
-defaultContentLanguage = 'ro-RO'
+defaultContentLanguage = 'ro'
 defaultContentLanguageInSubdir = true
 
 # Automatically generate robots.txt
@@ -47,7 +47,7 @@ showTableOfContents = true
       subtitle = 'English version'
 
 	[[languages.ro.menu.main]]
-	name = "distilat"
+	name = "Distilat"
 	url = "distilat/"
 	weight = 5
 
