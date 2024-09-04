@@ -2,7 +2,7 @@
 title: Un Distilat mai lung
 draft: false
 date: 2024-09-04 14:41
-author: Florin
+author: "Florin"
 cover:
 	image: /images/uploads/dall·e-2024-08-31-20.13.22-a-16x16-pixel-favicon-design-for-a-website-named-antimatter.-the-design-features-a-minimalistic-abstract-representation-of-a-split-atom-or-particle.webp
 ---
