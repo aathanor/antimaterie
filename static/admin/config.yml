@@ -9,7 +9,7 @@ backend:
 
 site_url: https://antimaterie.ro
 
-publish_mode: simple
+publish_mode: editorial_workflow
 media_folder: static/images/uploads
 public_folder: /images/uploads
 
