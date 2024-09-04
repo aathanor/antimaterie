@@ -38,13 +38,13 @@ showTableOfContents = true
 	  series = "serii"
 
 	[[languages.ro.menu.main]]
-	name = "Distilat"
-	url = "blog"
+	name = "distilat"
+	url = "distilat/"
 	weight = 5
 
 	[[languages.ro.menu.main]]
 	name = "Flux"
-	url = "posts/"
+	url = "flux/"
 	weight = 10
 
 	[[languages.ro.menu.main]]
