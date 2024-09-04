@@ -3,6 +3,9 @@ title = 'Antimaterie'
 
 theme = "PaperMod"
 
+defaultContentLanguage = 'ro-RO'
+defaultContentLanguageInSubdir = true
+
 # Automatically generate robots.txt
 enableRobotsTXT = true
 showTableOfContents = true
