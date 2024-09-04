@@ -1,5 +1,4 @@
 baseURL = 'https://antimaterie.ro/'
-languageCode = 'ro-RO'
 title = 'Antimaterie'
 
 theme = "PaperMod"
@@ -21,6 +20,7 @@ showTableOfContents = true
 	disableXML = true
 
 	[languages.ro]
+	languageCode = 'ro-RO'
 	languageName = "ro"
 	weight = 1
     disabled = false
