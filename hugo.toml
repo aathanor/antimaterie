@@ -18,7 +18,8 @@ showTableOfContents = true
 
 	[minify]
 	disableXML = true
-
+	
+[languages]
 	[languages.ro]
 	languageCode = 'ro-RO'
 	contentDir = "content"
