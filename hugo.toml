@@ -25,8 +25,12 @@ showTableOfContents = true
 	disableXML = true
 
 	[languages.ro]
-	languageName = "Romanian"
+	languageName = "ro"
 	weight = 1
+    disabled = false
+    languageCode = 'ro-RO'
+    languageDirection = 'ltr'
+    languageName = 'Română'
 
 	  [languages.ro.taxonomies]
 	  category = "categorii"
@@ -43,7 +47,7 @@ showTableOfContents = true
 	url = "posts/"
 	weight = 10
 
-	[[languages.en.menu.main]]
+	[[languages.ro.menu.main]]
 	name = "Tags"
 	url = "tags/"
 	weight = 10
