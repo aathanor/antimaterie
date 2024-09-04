@@ -1,16 +1,12 @@
 baseURL = 'https://antimaterie.ro/'
-languageCode = 'en-us'
+languageCode = 'ro-RO'
 title = 'Antimaterie'
 
 theme = "PaperMod"
 
 # Automatically generate robots.txt
 enableRobotsTXT = true
-
 showTableOfContents = true
-	
-	
-	
 	
 	paginate = 5
 	enableInlineShortcodes = true
@@ -28,7 +24,6 @@ showTableOfContents = true
 	languageName = "ro"
 	weight = 1
     disabled = false
-    languageCode = 'ro-RO'
     languageDirection = 'ltr'
     languageName = 'Română'
 
