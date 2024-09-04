@@ -32,6 +32,16 @@ showTableOfContents = true
 	  category = "categorii"
 	  tag = "tags"
 	  series = "serii"
+	  
+	[languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    weight = 2
+    [languages.en.params]
+      subtitle = 'English version'
 
 	[[languages.ro.menu.main]]
 	name = "distilat"
@@ -47,6 +57,7 @@ showTableOfContents = true
 	name = "Tags"
 	url = "tags/"
 	weight = 10
+
 
 
 	[outputs]
