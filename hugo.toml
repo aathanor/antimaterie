@@ -23,9 +23,9 @@ showTableOfContents = true
 	languageCode = 'ro-RO'
 	languageName = "ro"
 	weight = 1
-    disabled = false
-    languageDirection = 'ltr'
-    languageName = 'Română'
+    	disabled = false
+    	languageDirection = 'ltr'
+    	languageName = 'Română'
 
 	  [languages.ro.taxonomies]
 	  category = "categorii"
