@@ -56,7 +56,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: 'image'
         required: false
         tagname: ''
-
+      - { label: 'Author', name: 'author', widget: 'string', tagname: 'h3' }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
 
   - name: 'distilat' # Used in routes, ie.: /admin/collections/:slug/edit
