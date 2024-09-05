@@ -18,10 +18,12 @@ collections: # A list of collections the CMS should be able to edit
     label: "Post Authors"
     files:
       file: "_data/authors.yml"
-    create: true
-    fields:
-      - { label: 'Name', name: 'name', widget: 'string', hint: 'First and Last' }
-      - { label: 'Bio', name: 'description', widget: 'markdown' }
+      label: "Authors"
+      name: "Author"
+      create: true
+      fields:
+        - { label: 'Name', name: 'name', widget: 'string', hint: 'First and Last' }
+        - { label: 'Bio', name: 'description', widget: 'markdown' }
   - name: 'flux' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Flux' # Used in the UI
     label_singular: 'Flux' # Used in the UI, ie: "New Post"
