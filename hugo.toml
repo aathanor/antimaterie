@@ -69,7 +69,6 @@ showTableOfContents = true
 	[params]
 	env = "production"
 	description = "Antimaterie"
-	author = "Florin Cojocariu"
 	defaultTheme = "auto"
 	ShowShareButtons = true
 	ShowReadingTime = true

@@ -13,12 +13,10 @@ publish_mode: editorial_workflow
 media_folder: static/images/uploads
 public_folder: /images/uploads
 
-
-
 collections: # A list of collections the CMS should be able to edit
   - name: 'authors'
     label: "Post Authors"
-    folder: "content/authors"
+    file: "_data/authors.yml"
     create: true
     fields:
       - { label: 'Name', name: 'name', widget: 'string', hint: 'First and Last' }
