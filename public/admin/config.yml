@@ -67,8 +67,8 @@ collections: # A list of collections the CMS should be able to edit
         name: "author"
         widget: "relation"
         collection: "authors"
-        search_fields: ["name.first"]
-        value_field: "name.first"
+        search_fields: ["name"]
+        value_field: "name"
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
 
   - name: 'distilat' # Used in routes, ie.: /admin/collections/:slug/edit
