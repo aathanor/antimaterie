@@ -16,7 +16,8 @@ public_folder: /images/uploads
 collections: # A list of collections the CMS should be able to edit
   - name: 'authors'
     label: "Post Authors"
-    file: "_data/authors.yml"
+	files:
+      file: "_data/authors.yml"
     create: true
     fields:
       - { label: 'Name', name: 'name', widget: 'string', hint: 'First and Last' }
