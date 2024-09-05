@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fluxes on Antimaterie</title>
+    <link>//192.168.100.77:1313/ro/flux/</link>
+    <description>Recent content in Fluxes on Antimaterie</description>
+    <image>
+      <title>Antimaterie</title>
+      <url>//192.168.100.77:1313/images/papermod-cover.png</url>
+      <link>//192.168.100.77:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.133.0</generator>
+    <language>ro-RO</language>
+    <lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//192.168.100.77:1313/ro/flux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A doua postare</title>
+      <link>//192.168.100.77:1313/ro/flux/a_doua_postare/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//192.168.100.77:1313/ro/flux/a_doua_postare/</guid>
+      <description>Aici ar fi o mulțime de lucruri de zis. De exemplu că acest post e scris în nano, unul din primele editoare de text, de pe vremea când se lucra în linie de comandă și lumea n-avea mouși</description>
+    </item>
+    <item>
+      <title>Prima_postare</title>
+      <link>//192.168.100.77:1313/ro/flux/prima_postare/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//192.168.100.77:1313/ro/flux/prima_postare/</guid>
+      <description>Aici ar fi o mulțime de lucruri de zis. De exemplu că acest post e scris în nano, unul din primele editoare de text, de pe vremea când se lucra în linie de comandă și lumea n-avea mouși</description>
+    </item>
+    <item>
+      <title>Decap din Firefox</title>
+      <link>//192.168.100.77:1313/ro/flux/2024-09-03-decap-din-firefox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//192.168.100.77:1313/ro/flux/2024-09-03-decap-din-firefox/</guid>
+      <description>Ăsta e un post cu totul special.</description>
+    </item>
+    <item>
+      <title>Hello, World!</title>
+      <link>//192.168.100.77:1313/ro/flux/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//192.168.100.77:1313/ro/flux/hello-world/</guid>
+      <description>Ăsta e bun definitiv!. Quisque vulputate nibh sodales eros pretium tincidunt. Aenean porttitor efficitur convallis. Nulla sagittis finibus convallis. Phasellus in fermentum quam, eu egestas tortor. Maecenas ac mollis leo. Integer maximus eu nisl vel sagittis. Hello World! Ăsta e din Decap!, consectetur adipiscing elit. Ut non lorem diam. Quisque vulputate nibh sodales eros pretium tincidunt. Aenean porttitor efficitur convallis. Nulla sagittis finibus convallis. Phasellus in fermentum quam, eu egestas tortor.</description>
+    </item>
+    <item>
+      <title>Test din Florin-test</title>
+      <link>//192.168.100.77:1313/ro/flux/2024-09-04-test-din-florin-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//192.168.100.77:1313/ro/flux/2024-09-04-test-din-florin-test/</guid>
+      <description>Open Authoring și fork la repo.</description>
+    </item>
+    <item>
+      <title>Una din Flux </title>
+      <link>//192.168.100.77:1313/ro/flux/2024-09-04-una-din-flux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//192.168.100.77:1313/ro/flux/2024-09-04-una-din-flux/</guid>
+      <description>dar cu login în Firefox, de pe contul de Github Florin-test</description>
+    </item>
+    <item>
+      <title>Una nouă din Decap cu noile configurari</title>
+      <link>//192.168.100.77:1313/ro/flux/2024-09-03-una-nou%C4%83-din-decap-cu-noile-configurari/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//192.168.100.77:1313/ro/flux/2024-09-03-una-nou%C4%83-din-decap-cu-noile-configurari/</guid>
+      <description>Înainte de code block acum e un headline frumușel collections: # A list of collections the CMS should be able to edit - name: &amp;#39;posts&amp;#39; # Used in routes, ie.: /admin/collections/:slug/edit label: &amp;#39;Posts&amp;#39; # Used in the UI label_singular: &amp;#39;Post&amp;#39; # Used in the UI, ie: &amp;#34;New Post&amp;#34; description: &amp;gt; The description is a great place for tone setting, high level information, and editing guidelines that are specific to a collection.</description>
+    </item>
+  </channel>
+</rss>

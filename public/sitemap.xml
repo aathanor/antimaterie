@@ -1,35 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>//192.168.100.77:1313/posts/a_doua_postare/</loc>
-    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//192.168.100.77:1313/</loc>
-    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//192.168.100.77:1313/posts/</loc>
-    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//192.168.100.77:1313/blog/</loc>
-    <lastmod>2024-09-01T11:25:42+00:00</lastmod>
-  </url><url>
-    <loc>//192.168.100.77:1313/blog/tru/</loc>
-    <lastmod>2024-09-01T11:25:42+00:00</lastmod>
-  </url><url>
-    <loc>//192.168.100.77:1313/posts/prima_postare/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//192.168.100.77:1313/archives/</loc>
-  </url><url>
-    <loc>//192.168.100.77:1313/categories/</loc>
-  </url><url>
-    <loc>//192.168.100.77:1313/posts/hello-world/</loc>
-  </url><url>
-    <loc>//192.168.100.77:1313/series/</loc>
-  </url><url>
-    <loc>//192.168.100.77:1313/tags/</loc>
-  </url><url>
-    <loc>//192.168.100.77:1313/posts/2024-09-03-una-nou%C4%83-din-decap-cu-noile-configurari/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>//192.168.100.77:1313/ro/sitemap.xml</loc>
+    
+      <lastmod>2024-09-03T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>//192.168.100.77:1313/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

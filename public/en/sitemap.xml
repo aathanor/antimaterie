@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//192.168.100.77:1313/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro-RO"
+                href="//192.168.100.77:1313/ro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="//192.168.100.77:1313/en/"
+                />
+  </url><url>
+    <loc>//192.168.100.77:1313/en/categories/</loc>
+  </url><url>
+    <loc>//192.168.100.77:1313/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro-RO"
+                href="//192.168.100.77:1313/ro/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="//192.168.100.77:1313/en/tags/"
+                />
+  </url>
+</urlset>

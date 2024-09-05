@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Distilats on Antimaterie</title>
+    <link>//192.168.100.77:1313/ro/distilat/</link>
+    <description>Recent content in Distilats on Antimaterie</description>
+    <image>
+      <title>Antimaterie</title>
+      <url>//192.168.100.77:1313/images/papermod-cover.png</url>
+      <link>//192.168.100.77:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.133.0</generator>
+    <language>ro-RO</language>
+    <lastBuildDate>Sun, 01 Sep 2024 11:25:42 +0000</lastBuildDate>
+    <atom:link href="//192.168.100.77:1313/ro/distilat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TRU</title>
+      <link>//192.168.100.77:1313/ro/distilat/tru/</link>
+      <pubDate>Sun, 01 Sep 2024 11:25:42 +0000</pubDate>
+      <guid>//192.168.100.77:1313/ro/distilat/tru/</guid>
+      <description>Cel mai optimist pesimist dintre toți!</description>
+    </item>
+    <item>
+      <title>Un Distilat mai lung</title>
+      <link>//192.168.100.77:1313/ro/distilat/2024-09-04-un-distilat-mai-lung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//192.168.100.77:1313/ro/distilat/2024-09-04-un-distilat-mai-lung/</guid>
+      <description>Moise, trăind în timp, ca noi tot, i, s-a văzut nevoit să “povestească” viziunea primită a Creat, iei s, i implicit să o structureze temporal, altfel ea ar fi devenit neinteligibilă pentru cei care-l urmau. Însă “începutul” din primul paragraf e doar ordinea [ˆ4] decisă de Dumnezeu s, i nu curgerea implacabilă în care e imersată cons, tiint, a noastră, pe care o numim “timp” s, i care e, cu mare probabilitate, un artefact produs de limitele cons, tiint, ei.</description>
+    </item>
+  </channel>
+</rss>

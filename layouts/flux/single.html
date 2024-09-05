@@ -1,12 +1,9 @@
 {{ define "main" }}
   <section>
     <h1>{{ .Title }}</h1>
-    {{ with .Date }}
-	<br />
-      {{ $dateMachine := . | time.Format "2006-01-02T15:04:05-07:00" }}
-      {{ $dateHuman := . | time.Format ":date_long" }}
-      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-    {{ end }}
+    <footer class="entry-footer">
+      {{- partial "post_meta.html" . -}}
+    </footer>
 	<br />
 	<br />
     <article>
