@@ -9,7 +9,7 @@
 {{- end }}
 
 <!-- Add the rest of the meta (date, reading time) on the second line -->
-
+<br>
 <!-- Date -->
 {{- if not .Date.IsZero -}}
   {{- $scratch.Add "meta" (slice (printf "<span title='%s'><strong>data publicării: </strong>%s</span>" (.Date) (.Date | time.Format (default "January 2, 2006" site.Params.DateFormat)))) }}
