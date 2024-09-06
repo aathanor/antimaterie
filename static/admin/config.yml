@@ -6,6 +6,7 @@ backend:
   auth_endpoint: /api/auth
   auth_scope: repo # this is needed to fork the private repo
   open_authoring: true
+  use_graphql: true
 
 site_url: https://antimaterie.ro
 

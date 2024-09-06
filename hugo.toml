@@ -17,7 +17,7 @@ showTableOfContents = true
 	buildExpired = false
 	enableEmoji = true
 	pygmentsUseClasses = true
-	mainsections = [ "posts", "papermod" ]
+	mainsections = [ "distilat", "flux", "papermod" ]
 
 	[minify]
 	disableXML = true
@@ -66,6 +66,11 @@ showTableOfContents = true
 	[outputs]
 	home = [ "HTML", "RSS", "JSON" ]
 
+    [taxonomies]
+      author = 'authors'
+      tag = "tags"
+      category = "categories"
+
 	[params]
 	env = "production"
 	description = "Antimaterie"
@@ -81,6 +86,7 @@ showTableOfContents = true
 	ShowPageNums = true
 	ShowToc = true
 	images = [ "images/papermod-cover.png" ]
+
 
 	  [params.profileMode]
 	  enabled = false
@@ -114,8 +120,8 @@ showTableOfContents = true
 
 	  [params.assets]
 	  disableHLJS = true
-	 
-	  
+
+
 
 	[markup.goldmark.renderer]
 	unsafe = true

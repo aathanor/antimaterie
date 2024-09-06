@@ -14,6 +14,18 @@
                 href="//192.168.100.77:1313/en/"
                 />
   </url><url>
+    <loc>//192.168.100.77:1313/en/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro-RO"
+                href="//192.168.100.77:1313/ro/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="//192.168.100.77:1313/en/authors/"
+                />
+  </url><url>
     <loc>//192.168.100.77:1313/en/categories/</loc>
   </url><url>
     <loc>//192.168.100.77:1313/en/tags/</loc>

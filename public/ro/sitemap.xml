@@ -33,6 +33,16 @@
     <loc>//192.168.100.77:1313/ro/authors/map-name-florin-din-decap-web-description-din-nou-autor-florin-din-decap-web/</loc>
   </url><url>
     <loc>//192.168.100.77:1313/ro/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="//192.168.100.77:1313/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro-RO"
+                href="//192.168.100.77:1313/ro/authors/"
+                />
   </url><url>
     <loc>//192.168.100.77:1313/ro/categorii/</loc>
   </url><url>

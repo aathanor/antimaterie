@@ -3,6 +3,11 @@
     <h1>{{ .Title }}</h1>
     <footer class="entry-footer">
       {{- partial "post_meta.html" . -}}
+      <span> aici e spanul
+      	{{ range .Param "authors" }}
+      		{{ . }}
+      	{{ end }}
+      </span>
     </footer>
 	<br />
 	<br />
