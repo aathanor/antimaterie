@@ -6,4 +6,6 @@ author: TRU
 ---
 Ăsta e un post cu totul special.
 
-Am adăugat pe 6 sept vineri dimineața asta.
+Am adăugat pe 6 sept vineri dimineața asta (din interfata locală).
+
+Apoi din interfața web din cloudflare, asta.
