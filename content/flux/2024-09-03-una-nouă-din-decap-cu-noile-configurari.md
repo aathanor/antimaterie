@@ -2,7 +2,7 @@
 title: Una nouă din Decap cu noile configurari
 draft: false
 date: 2024-09-03 09:21
-author: Florin din decap web
+author: Florin Cojocariu
 ---
 ## Înainte de code block acum e un headline frumușel
 
