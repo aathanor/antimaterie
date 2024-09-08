@@ -49,7 +49,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: Drafts
         field: draft
     fields: # The fields each document in this collection have
-      - { label: 'Title', name: 'title', widget: 'string', tagname: 'h1' }
+      - { label: 'Titlu', name: 'title', widget: 'string', tagname: 'h1' }
 #      - { label: 'Draft?', name: 'draft', widget: 'boolean', default: false }
       - {
           label: 'Publish Date',
@@ -58,12 +58,12 @@ collections: # A list of collections the CMS should be able to edit
           format: 'YYYY-MM-DD HH:mm',
           default: '{{now}}',
         }
-      - label: 'Cover Image'
+      - label: 'Imagine'
         name: 'image'
         widget: 'image'
         required: false
         tagname: ''
-      - label: "Post Author"
+      - label: "Autor"
         name: "author"
         widget: "relation"
         collection: "authors"
@@ -97,16 +97,16 @@ collections: # A list of collections the CMS should be able to edit
       - label: Drafts
         field: draft
     fields: # The fields each document in this collection have
-      - { label: 'Title', name: 'title', widget: 'string', tagname: 'h1' }
-      - { label: 'Draft', name: 'draft', widget: 'boolean', default: false }
+      - { label: 'Titlu', name: 'title', widget: 'string', tagname: 'h1' }
+#      - { label: 'Draft', name: 'draft', widget: 'boolean', default: false }
       - {
-          label: 'Publish Date',
+          label: 'Data publicării',
           name: 'date',
           widget: 'datetime',
           format: 'YYYY-MM-DD HH:mm',
           default: '{{now}}',
         }
-      - label: 'Cover Image'
+      - label: 'Imagine'
         name: 'image'
         widget: 'image'
         required: false
@@ -148,7 +148,7 @@ collections: # A list of collections the CMS should be able to edit
                 }
 
       - name: 'authors'
-        label: 'Authors'
+        label: 'Autori'
         file: 'site/_data/authors.yml'
         description: 'Author descriptions'
         fields:
@@ -160,15 +160,3 @@ collections: # A list of collections the CMS should be able to edit
               - { label: 'Name', name: 'name', widget: 'string', hint: 'First and Last' }
               - { label: 'Description', name: 'description', widget: 'markdown' }
 
-
-  - name: pages # a nested collection
-    label: Blog
-    label_singular: 'Blog'
-    folder: content/blog
-    create: true
-    nested: { depth: 100 }
-    fields:
-      - label: Title
-        name: title
-        widget: string
-    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
