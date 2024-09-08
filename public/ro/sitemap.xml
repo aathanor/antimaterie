@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//192.168.100.77:1313/ro/flux/a_doua_postare/</loc>
-    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
+    <loc>//192.168.100.77:1313/ro/authors/map-name-florin-cojocariu-description-bio-florin/</loc>
+  </url><url>
+    <loc>//192.168.100.77:1313/ro/authors/map-name-tru-description-bio-tru/</loc>
   </url><url>
     <loc>//192.168.100.77:1313/ro/</loc>
-    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -18,21 +18,7 @@
                 href="//192.168.100.77:1313/ro/"
                 />
   </url><url>
-    <loc>//192.168.100.77:1313/ro/flux/</loc>
-    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//192.168.100.77:1313/ro/distilat/</loc>
-    <lastmod>2024-09-01T11:25:42+00:00</lastmod>
-  </url><url>
-    <loc>//192.168.100.77:1313/ro/distilat/tru/</loc>
-    <lastmod>2024-09-01T11:25:42+00:00</lastmod>
-  </url><url>
-    <loc>//192.168.100.77:1313/ro/flux/prima_postare/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//192.168.100.77:1313/ro/authors/map-name-florin-cojocariu-description-bio-florin/</loc>
-  </url><url>
-    <loc>//192.168.100.77:1313/ro/authors/map-name-tru-description-bio-tru/</loc>
+    <loc>//192.168.100.77:1313/ro/archives/</loc>
   </url><url>
     <loc>//192.168.100.77:1313/ro/authors/</loc>
     <xhtml:link
@@ -46,36 +32,16 @@
                 href="//192.168.100.77:1313/ro/authors/"
                 />
   </url><url>
-    <loc>//192.168.100.77:1313/ro/categorii/</loc>
+    <loc>//192.168.100.77:1313/ro/flux/2024-09-06-din-kosovo-se-%C3%AEntrupeaz%C4%83/</loc>
   </url><url>
-    <loc>//192.168.100.77:1313/ro/flux/2024-09-03-decap-din-firefox/</loc>
+    <loc>//192.168.100.77:1313/ro/distilat/</loc>
   </url><url>
-    <loc>//192.168.100.77:1313/ro/flux/hello-world/</loc>
+    <loc>//192.168.100.77:1313/ro/flux/</loc>
   </url><url>
     <loc>//192.168.100.77:1313/ro/search/</loc>
   </url><url>
-    <loc>//192.168.100.77:1313/ro/serii/</loc>
+    <loc>//192.168.100.77:1313/ro/flux/2024-09-08-dumnezeu-a-murit-urm%C4%83m-noi/</loc>
   </url><url>
-    <loc>//192.168.100.77:1313/ro/flux/2024-09-06-%C8%99i-fundamentalismul-democratic-e-un-fundamentalism/</loc>
-  </url><url>
-    <loc>//192.168.100.77:1313/ro/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="//192.168.100.77:1313/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="//192.168.100.77:1313/ro/tags/"
-                />
-  </url><url>
-    <loc>//192.168.100.77:1313/ro/flux/2024-09-04-test-din-florin-test/</loc>
-  </url><url>
-    <loc>//192.168.100.77:1313/ro/distilat/2024-09-04-un-distilat-mai-lung/</loc>
-  </url><url>
-    <loc>//192.168.100.77:1313/ro/flux/2024-09-04-una-din-flux/</loc>
-  </url><url>
-    <loc>//192.168.100.77:1313/ro/flux/2024-09-03-una-nou%C4%83-din-decap-cu-noile-configurari/</loc>
+    <loc>//192.168.100.77:1313/ro/distilat/2024-09-06-%C8%99i-fundamentalismul-democratic-e-un-fundamentalism/</loc>
   </url>
 </urlset>

@@ -11,66 +11,21 @@
     </image>
     <generator>Hugo -- 0.133.0</generator>
     <language>ro-RO</language>
-    <lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//192.168.100.77:1313/ro/flux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A doua postare</title>
-      <link>//192.168.100.77:1313/ro/flux/a_doua_postare/</link>
-      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/ro/flux/a_doua_postare/</guid>
-      <description>Aici ar fi o mulțime de lucruri de zis. De exemplu că acest post e scris în nano, unul din primele editoare de text, de pe vremea când se lucra în linie de comandă și lumea n-avea mouși</description>
-    </item>
-    <item>
-      <title>Prima_postare</title>
-      <link>//192.168.100.77:1313/ro/flux/prima_postare/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/ro/flux/prima_postare/</guid>
-      <description>Aici ar fi o mulțime de lucruri de zis. De exemplu că acest post e scris în nano, unul din primele editoare de text, de pe vremea când se lucra în linie de comandă și lumea n-avea mouși</description>
-    </item>
-    <item>
-      <title>Decap din Firefox</title>
-      <link>//192.168.100.77:1313/ro/flux/2024-09-03-decap-din-firefox/</link>
+      <title>Din Kosovo se întrupează...</title>
+      <link>//192.168.100.77:1313/ro/flux/2024-09-06-din-kosovo-se-%C3%AEntrupeaz%C4%83/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/ro/flux/2024-09-03-decap-din-firefox/</guid>
-      <description>Ăsta e un post cu totul special.
-Am adăugat pe 6 sept vineri dimineața asta (din interfata locală).
-Apoi din interfața web din cloudflare, asta.</description>
+      <guid>//192.168.100.77:1313/ro/flux/2024-09-06-din-kosovo-se-%C3%AEntrupeaz%C4%83/</guid>
+      <description>O declarație sulfuroasă a lui Belenessy Csaba invită doritorii la o privire prospectivă în hău. O puteți citi în transpunerea anglo-maghiarului Alex Faludy (un critic al guvernului Orban) și în varianta rezumată de presa română. În esență, Belenessy Csaba, regizorul de imagine al partidului de guvernămînt FIDESZ, vorbește de posibila parcare în Ungaria a etnicilor maghiari și a teritoriilor locuite de maghiari, prin jocul istoriei, pus în mișcare de războiul din Ucraina.</description>
     </item>
     <item>
-      <title>Hello, World!</title>
-      <link>//192.168.100.77:1313/ro/flux/hello-world/</link>
+      <title>Sfântul Augustin despre politica externă americană.</title>
+      <link>//192.168.100.77:1313/ro/flux/2024-09-08-dumnezeu-a-murit-urm%C4%83m-noi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/ro/flux/hello-world/</guid>
-      <description>Ăsta e bun definitiv!. Quisque vulputate nibh sodales eros pretium tincidunt. Aenean porttitor efficitur convallis. Nulla sagittis finibus convallis. Phasellus in fermentum quam, eu egestas tortor. Maecenas ac mollis leo. Integer maximus eu nisl vel sagittis. Hello World! Ăsta e din Decap!, consectetur adipiscing elit. Ut non lorem diam. Quisque vulputate nibh sodales eros pretium tincidunt. Aenean porttitor efficitur convallis. Nulla sagittis finibus convallis. Phasellus in fermentum quam, eu egestas tortor.</description>
-    </item>
-    <item>
-      <title>Și fundamentalismul democratic e un fundamentalism</title>
-      <link>//192.168.100.77:1313/ro/flux/2024-09-06-%C8%99i-fundamentalismul-democratic-e-un-fundamentalism/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/ro/flux/2024-09-06-%C8%99i-fundamentalismul-democratic-e-un-fundamentalism/</guid>
-      <description>Ce se poate vedea în fotografia de mai sus? Carnavalul spasmodic de la sfîrșitul lumii americane. Triumful libertății în derută. De fapt, nimic nou în această imagine care repetă încremenirea în grotesc a civilizațiilor la capăt de drum. Roma 400, Bizanț,1400, Viena 1900, Berlin 1930, Washington 2020 - toate strălucind în întuneric, cu senzația unei superiorități finale, de neatins. Cum am ajuns aici? Pe același drum.
-Totuși,majoritatea intens publicată a istoricilor, economiștilor și filozofilor care caută sau pretind că se află în căutarea unui răspuns susțin ceva înălțător-agreabil: libertatea pură și desăvîrșită, dinamitarea limitelor, dizolvarea restricțiilor și a ierarhiilor trebuie proclamate și aplicate, tocmai pentru că democrația e sub asediu.</description>
-    </item>
-    <item>
-      <title>Test din Florin-test</title>
-      <link>//192.168.100.77:1313/ro/flux/2024-09-04-test-din-florin-test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/ro/flux/2024-09-04-test-din-florin-test/</guid>
-      <description>Open Authoring și fork la repo.</description>
-    </item>
-    <item>
-      <title>Una din Flux </title>
-      <link>//192.168.100.77:1313/ro/flux/2024-09-04-una-din-flux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/ro/flux/2024-09-04-una-din-flux/</guid>
-      <description>dar cu login în Firefox, de pe contul de Github Florin-test</description>
-    </item>
-    <item>
-      <title>Una nouă din Decap cu noile configurari</title>
-      <link>//192.168.100.77:1313/ro/flux/2024-09-03-una-nou%C4%83-din-decap-cu-noile-configurari/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/ro/flux/2024-09-03-una-nou%C4%83-din-decap-cu-noile-configurari/</guid>
-      <description>Înainte de code block acum e un headline frumușel collections: # A list of collections the CMS should be able to edit - name: &amp;#39;posts&amp;#39; # Used in routes, ie.: /admin/collections/:slug/edit label: &amp;#39;Posts&amp;#39; # Used in the UI label_singular: &amp;#39;Post&amp;#39; # Used in the UI, ie: &amp;#34;New Post&amp;#34; description: &amp;gt; The description is a great place for tone setting, high level information, and editing guidelines that are specific to a collection.</description>
+      <guid>//192.168.100.77:1313/ro/flux/2024-09-08-dumnezeu-a-murit-urm%C4%83m-noi/</guid>
+      <description>Ei n-au înțeles că principiul &amp;lsquo;Nu-i face altuia ce nu vrei să ți se facă ție&amp;rsquo; nu poate fi în nici un caz modificat în funcție de diversitatea de obiceiuri naționale. Când acestă regulă se aplică iubirii de Dumnezeu, pier toate viciile; când se aplică iubirii de aproapele, dispar toate fărădelegile&amp;quot; [^1]
+E observația fundamentală ce trebuie făcută azi politicii externe americane. Aproape tot ce fac astăzi Statele Unite altora ar fi intolerabil pentru ei înșiși.</description>
     </item>
   </channel>
 </rss>

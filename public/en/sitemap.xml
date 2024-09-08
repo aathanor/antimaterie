@@ -29,15 +29,5 @@
     <loc>//192.168.100.77:1313/en/categories/</loc>
   </url><url>
     <loc>//192.168.100.77:1313/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="//192.168.100.77:1313/ro/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="//192.168.100.77:1313/en/tags/"
-                />
   </url>
 </urlset>
