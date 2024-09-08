@@ -52,7 +52,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: 'Titlu', name: 'title', widget: 'string', tagname: 'h1' }
 #      - { label: 'Draft?', name: 'draft', widget: 'boolean', default: false }
       - {
-          label: 'Publish Date',
+          label: 'Data publicării',
           name: 'date',
           widget: 'datetime',
           format: 'YYYY-MM-DD HH:mm',
@@ -69,7 +69,7 @@ collections: # A list of collections the CMS should be able to edit
         collection: "authors"
         search_fields: ["name"]
         value_field: "name"
-      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
+      - { label: 'Text', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
 
   - name: 'distilat' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Distilat' # Used in the UI
