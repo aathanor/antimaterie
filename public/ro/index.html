@@ -62,23 +62,6 @@
     </style>
 </noscript>
   
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-YCEPNKDC74"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-YCEPNKDC74');
-        }
-      </script>
-    
-  
 
 <meta property="og:title" content="Antimaterie" />
 <meta property="og:description" content="Antimaterie" />
@@ -338,16 +321,8 @@ Totuși,majoritatea intens publicată a istoricilor, economiștilor și filozofi
                 </label>
             </div>
         
-            <div>
-                <input type="checkbox" id="item1" value="1" name="item1"  />
-                <label for="item1">
-                    <h3>Crisp chat</h3>
-                    <p>This code gives users the option to chat directly with us through a chat box in the bottom right corner. Visitor data will (also) be sent to Crisp.</p>
-                </label>
-            </div>
-        
         <div>
-            <button id="save-consent" class="btn save-consent" data-consentvalue="0">Salvează</button>
+            <button id="save-consent" class="btn save-consent" data-consentvalue="">Salvează</button>
             <button class="btn approve-consent">Permite toate</button>
         </div>
     </div>
@@ -355,7 +330,6 @@ Totuși,majoritatea intens publicată a istoricilor, economiștilor și filozofi
 <script>
 
     const scripts = [];
-    scripts[ 0 ] = "/js/";
 
     function createCookie(name,value,days) {
         var expires = "";
@@ -472,9 +446,7 @@ Totuși,majoritatea intens publicată a istoricilor, economiștilor și filozofi
 
 
     
-        <script type="text/javascript" src="/js/"></script>
-    
-
+        <script type="text/javascript" src="/js/ga.js"></script>
     
 
 

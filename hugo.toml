@@ -73,10 +73,6 @@ showTableOfContents = true
       tag = "tags"
       category = "categories"
 
-[services]
-  [services.googleAnalytics]
-    id = 'G-YCEPNKDC74'
-
 	[params]
 	env = "production"
 	description = "Antimaterie"
