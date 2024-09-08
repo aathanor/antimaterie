@@ -1,4 +1,4 @@
-googleAnalytics = "G-ZS1G4WFHBM"
+
 baseURL = 'https://antimaterie.ro/'
 title = 'Antimaterie'
 theme = "PaperMod"
@@ -74,6 +74,7 @@ showTableOfContents = true
       category = "categories"
 
 	[params]
+    GoogleAnalyticsID = "G-ZS1G4WFHBM"
 	env = "production"
 	description = "Antimaterie"
 	defaultTheme = "auto"
