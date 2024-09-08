@@ -72,7 +72,6 @@ collections: # A list of collections the CMS should be able to edit
         search_fields: ["name"]
         value_field: "name"
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Aici intră textul' }
-
   - name: 'distilat' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Distilat' # Used in the UI
     label_singular: 'Distilat' # Used in the UI, ie: "New Post"
