@@ -73,8 +73,11 @@ showTableOfContents = true
       tag = "tags"
       category = "categories"
 
+[services]
+  [services.googleAnalytics]
+    id = 'G-YCEPNKDC74'
+
 	[params]
-    GoogleAnalyticsID = "G-ZS1G4WFHBM"
 	env = "production"
 	description = "Antimaterie"
 	defaultTheme = "auto"
@@ -89,7 +92,6 @@ showTableOfContents = true
 	ShowPageNums = true
 	ShowToc = true
 	images = [ "images/papermod-cover.png" ]
-
 
 	  [params.profileMode]
 	  enabled = false
