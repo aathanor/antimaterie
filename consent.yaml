@@ -1,5 +1,8 @@
 items:
   - title: Google Anaytics (functional)
-    description: This code gives us insight into the number of people that visit our website, where they are from and what they are clicking on. We follow the guidelines of the Dutch Government, which describe how to use Google Analytics without requiring explicit consent.
+    description: Ne dă posibilitatea să urmărim statistici agregate despre vizitatori, fără stocarea datelor personale.
     is_functional: true
     script_file:
+  - title: Comentarii
+    description: Siteul folosește sistemul de comentarii Cusdis, care nu e opțional. Dacă nu sunteți de acord cu stocarea comentariilor, nu comentați.
+    is_functional: true

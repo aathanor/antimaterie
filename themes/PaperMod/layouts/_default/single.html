@@ -40,7 +40,17 @@
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
+          Toate comentariile sunt moderate
   </div>
+
+  <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="1c02f48b-0bf6-49e5-9dcb-593c3cb45410"
+    data-page-id="{{ .File.UniqueID }}"
+    data-page-url="{{ .Permalink }}"
+    data-page-title="{{ .Title }}"
+  ></div>
+  <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
   {{- end }}
 
   <footer class="post-footer">
