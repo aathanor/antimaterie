@@ -55,9 +55,9 @@ collections: # A list of collections the CMS should be able to edit
 #      - { label: 'Draft?', name: 'draft', widget: 'boolean', default: false }
       - {
           label: 'Data publicării',
-          name: 'date',
+          name: 'Date',
           widget: 'datetime',
-          format: 'YYYY-MM-DD HH:mm',
+          format: 'YYYY-MM-DD,
           default: '{{now}}',
         }
       - label: 'Imagine'

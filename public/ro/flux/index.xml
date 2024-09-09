@@ -11,21 +11,22 @@
     </image>
     <generator>Hugo -- 0.133.0</generator>
     <language>ro-RO</language>
+    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//192.168.100.77:1313/ro/flux/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Din Kosovo se întrupează...</title>
-      <link>//192.168.100.77:1313/ro/flux/2024-09-06-din-kosovo-se-%C3%AEntrupeaz%C4%83/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/ro/flux/2024-09-06-din-kosovo-se-%C3%AEntrupeaz%C4%83/</guid>
-      <description>O declarație sulfuroasă a lui Belenessy Csaba invită doritorii la o privire prospectivă în hău. O puteți citi în transpunerea anglo-maghiarului Alex Faludy (un critic al guvernului Orban) și în varianta rezumată de presa română. În esență, Belenessy Csaba, regizorul de imagine al partidului de guvernămînt FIDESZ, vorbește de posibila parcare în Ungaria a etnicilor maghiari și a teritoriilor locuite de maghiari, prin jocul istoriei, pus în mișcare de războiul din Ucraina.</description>
-    </item>
     <item>
       <title>Sfântul Augustin despre politica externă americană.</title>
       <link>//192.168.100.77:1313/ro/flux/2024-09-08-dumnezeu-a-murit-urm%C4%83m-noi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
       <guid>//192.168.100.77:1313/ro/flux/2024-09-08-dumnezeu-a-murit-urm%C4%83m-noi/</guid>
       <description>Ei n-au înțeles că principiul &amp;lsquo;Nu-i face altuia ce nu vrei să ți se facă ție&amp;rsquo; nu poate fi în nici un caz modificat în funcție de diversitatea de obiceiuri naționale. Când acestă regulă se aplică iubirii de Dumnezeu, pier toate viciile; când se aplică iubirii de aproapele, dispar toate fărădelegile&amp;quot; [^1]
 E reproșul fundamental ce poate fi adus azi politicii externe americane. Pre puțin din ce fac astăzi Statele Unite altora ar fi tolerabil pentru ei înșiși.</description>
+    </item>
+    <item>
+      <title>Din Kosovo se întrupează...</title>
+      <link>//192.168.100.77:1313/ro/flux/2024-09-06-din-kosovo-se-%C3%AEntrupeaz%C4%83/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>//192.168.100.77:1313/ro/flux/2024-09-06-din-kosovo-se-%C3%AEntrupeaz%C4%83/</guid>
+      <description>O declarație sulfuroasă a lui Belenessy Csaba invită doritorii la o privire prospectivă în hău. O puteți citi în transpunerea anglo-maghiarului Alex Faludy (un critic al guvernului Orban) și în varianta rezumată de presa română. În esență, Belenessy Csaba, regizorul de imagine al partidului de guvernămînt FIDESZ, vorbește de posibila parcare în Ungaria a etnicilor maghiari și a teritoriilor locuite de maghiari, prin jocul istoriei, pus în mișcare de războiul din Ucraina.</description>
     </item>
   </channel>
 </rss>

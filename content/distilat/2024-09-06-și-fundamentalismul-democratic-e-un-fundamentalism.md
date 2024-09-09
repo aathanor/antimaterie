@@ -1,7 +1,7 @@
 ---
 title: Și fundamentalismul democratic e un fundamentalism
 draft: false
-date: 2023-06-15 09:02
+Date: 2023-06-15
 cover:
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3503283f-51a7-4c96-9ecb-58a5a8a09481_1402x1752.png
 author: TRU

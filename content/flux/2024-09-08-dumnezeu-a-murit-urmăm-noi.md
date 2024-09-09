@@ -1,7 +1,7 @@
 ---
 title: Sfântul Augustin despre politica externă americană.
 draft: false
-date: 2024-09-08 08:16
+Date: 2024-09-08
 author: Florin Cojocariu
 ---
 > Ei n-au înțeles că principiul *'Nu-i face altuia ce nu vrei să ți se facă ție'* nu poate fi în nici un caz modificat în funcție de diversitatea de obiceiuri naționale. Când acestă regulă se aplică iubirii de Dumnezeu, pier toate viciile; când se aplică iubirii de aproapele, dispar toate fărădelegile" [^1]
