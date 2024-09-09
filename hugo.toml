@@ -8,7 +8,6 @@ defaultContentLanguageInSubdir = true
 # Automatically generate robots.txt
 enableRobotsTXT = true
 showTableOfContents = true
-	
 	paginate = 10
 	enableInlineShortcodes = true
 	buildDrafts = false
@@ -122,8 +121,6 @@ showTableOfContents = true
 
 	  [params.assets]
 	  disableHLJS = true
-
-
 
 	[markup.goldmark.renderer]
 	unsafe = true
