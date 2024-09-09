@@ -71,11 +71,14 @@ body:not(.dark) #sun {
 }
 
 .lang-switch li,
-.lang-switch ul,
+.lang-switch ul {
+     display: inline-flex;
+     margin: auto 4px;
+     display: none;
+}
 .logo-switches {
     display: inline-flex;
     margin: auto 4px;
-    display: none;
 }
 
 .lang-switch {

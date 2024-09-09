@@ -46,14 +46,14 @@
     const scripts = [];{{ range $index, $item := (where .Site.Data.consent.items "is_functional" false) }}
     scripts[{{ $index }}] = "/js/{{ $item.script_file }}";{{ end }}
 
-    function createCookie(name,value,days) {
+    function createCookie(name, value, days) {
         var expires = "";
         if (days) {
             var date = new Date();
             date.setTime(date.getTime() + (days*24*60*60*1000));
             expires = "; expires=" + date.toUTCString();
         }
-        document.cookie = name + "=" + value + expires + "; path=/";
+        document.cookie = name + "=" + value + expires + "; path=/; SameSite=None; Secure";
     }
     function readCookie(name) {
         var nameEQ = name + "=";

@@ -12,7 +12,7 @@
 <meta name="author" content="
 ">
 <link rel="canonical" href="//192.168.100.77:1313/ro/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.b004cd3bb817f4217c34a2bb85a3080d7e310fbbf0382e13e0703761f1864762.css" integrity="sha256-sATNO7gX9CF8NKK7haMIDX4xD7vwOC4T4HA3YfGGR2I=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.5905edf77e326990031a134a06e2f40b6d0a8a453ccf474f87777eb8e7caebc3.css" integrity="sha256-WQXt934yaZADGhNKBuL0C20KikU8z0dPh3d&#43;uOfK68M=" rel="preload stylesheet" as="style">
 <link rel="icon" href="//192.168.100.77:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="//192.168.100.77:1313/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="//192.168.100.77:1313/favicon-32x32.png">
@@ -188,7 +188,7 @@
     </h2>
   </header>
   <div class="entry-content">
-    <p>Ei n-au înțeles că principiul ‘Nu-i face altuia ce nu vrei să ți se facă ție’ nu poate fi în nici un caz modificat în funcție de diversitatea de obiceiuri naționale. Când acestă regulă se aplică iubirii de Dumnezeu, pier toate viciile; când se aplică iubirii de aproapele, dispar toate fărădelegile&#34; [^1]
+    <p>Ei n-au înțeles că principiul ‘Nu-i face altuia ce nu vrei să ți se facă ție’ nu poate fi în nici un caz modificat în funcție de diversitatea de obiceiuri naționale. Când acestă regulă se aplică iubirii de Dumnezeu, pier toate viciile; când se aplică iubirii de aproapele, dispar toate fărădelegile&#34; 1
 E reproșul fundamental ce poate fi adus azi politicii externe americane. Pre puțin din ce fac astăzi Statele Unite altora ar fi tolerabil pentru ei înșiși.... </p>
   </div>
   <footer class="entry-footer"><br>
@@ -328,14 +328,14 @@ Totuși,majoritatea intens publicată a istoricilor, economiștilor și filozofi
 
     const scripts = [];
 
-    function createCookie(name,value,days) {
+    function createCookie(name, value, days) {
         var expires = "";
         if (days) {
             var date = new Date();
             date.setTime(date.getTime() + (days*24*60*60*1000));
             expires = "; expires=" + date.toUTCString();
         }
-        document.cookie = name + "=" + value + expires + "; path=/";
+        document.cookie = name + "=" + value + expires + "; path=/; SameSite=None; Secure";
     }
     function readCookie(name) {
         var nameEQ = name + "=";
