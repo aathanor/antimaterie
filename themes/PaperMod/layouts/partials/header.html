@@ -6,8 +6,10 @@
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
     }
-
 </script>
+{{ range .Site.Params.custom_css -}}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+{{- end }}
 {{- /* theme is dark */}}
 {{- else if (eq site.Params.defaultTheme "dark") }}
 <script>

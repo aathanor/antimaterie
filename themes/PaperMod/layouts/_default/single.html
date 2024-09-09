@@ -40,7 +40,12 @@
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
+    <br>
+    <br>
+    <div class=".break-comments"><strong>-----------
           Toate comentariile sunt moderate
+          -----------</strong></div>
+    <br>
   </div>
 
   <div id="cusdis_thread"

@@ -88,6 +88,7 @@ showTableOfContents = true
 	ShowPageNums = true
 	ShowToc = true
 	images = [ "images/papermod-cover.png" ]
+    custom_css = ["custom.css"]
 
 	  [params.profileMode]
 	  enabled = false
