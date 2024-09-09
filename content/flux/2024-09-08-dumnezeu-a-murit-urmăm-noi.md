@@ -2,6 +2,7 @@
 title: Sfântul Augustin despre politica externă americană.
 draft: false
 Date: 2024-09-08
+date: 2024-09-09 15:27
 author: Florin Cojocariu
 ---
 > Ei n-au înțeles că principiul *'Nu-i face altuia ce nu vrei să ți se facă ție'* nu poate fi în nici un caz modificat în funcție de diversitatea de obiceiuri naționale. Când acestă regulă se aplică iubirii de Dumnezeu, pier toate viciile; când se aplică iubirii de aproapele, dispar toate fărădelegile" [^1]
@@ -10,4 +11,4 @@ E reproșul fundamental ce poate fi adus azi politicii externe americane. Pre pu
 
 Observația se extinde însă de la politica externă la cea internă și apoi la relațiile dintre oameni în criză. În Covid "comisarii" care cereau internarea forțată sau lipsirea totală de drepturi a celor care refuzau linia oficială nu s-au gândit nici măcar o secundă dacă un astfel de tratament  ar fi tolerabil pentru ei înșiși. 
 
-[^1] De Doctrina Christiana, III, 14,22
+[^1]: De Doctrina Christiana, III, 14,22
