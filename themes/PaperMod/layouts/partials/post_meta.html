@@ -4,19 +4,19 @@
 <!-- Display Author on the first line -->
 {{- if not (.Param "hideAuthor") -}}
   {{- with (partial "author.html" .) }}
-    <span><strong>Autor: {{ . }} / </strong></span>
+    <span>Autor: <strong>{{ . }} / </strong></span>
   {{- end }}
 {{- end }} 
 
 <!-- Add the rest of the meta (date, reading time) on the second line -->
 <!-- Date -->
 {{- if not .Date.IsZero -}}
-  {{- $scratch.Add "meta" (slice (printf "<span title='%s'><strong> data publicării: </strong>%s</span>" (.Date) (.Date | time.Format (default "January 2, 2006" site.Params.DateFormat)))) }}
+  {{- $scratch.Add "meta" (slice (printf "<span title='%s'> data publicării: <strong>%s</strong></span>" (.Date) (.Date | time.Format (default "January 2, 2006" site.Params.DateFormat)))) }}
 {{- end }}
 
 <!-- Reading Time -->
 {{- if (.Param "ShowReadingTime") -}}
-  {{- $readingTime := printf "timp de citire: %d min" .ReadingTime }}
+  {{- $readingTime := printf "<span>timp de citire: <strong>%d min</strong></span>" .ReadingTime }}
   {{- $scratch.Add "meta" (slice $readingTime) }}
 {{- end }}
 
