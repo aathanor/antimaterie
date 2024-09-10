@@ -335,7 +335,7 @@ Totuși,majoritatea intens publicată a istoricilor, economiștilor și filozofi
             date.setTime(date.getTime() + (days*24*60*60*1000));
             expires = "; expires=" + date.toUTCString();
         }
-        document.cookie = name + "=" + value + expires + "; path=/;" SameSite=Strict; Secure;
+        document.cookie = name + "=" + value + expires + "; path=/; SameSite=None";
     }
     function readCookie(name) {
         var nameEQ = name + "=";
@@ -443,7 +443,7 @@ Totuși,majoritatea intens publicată a istoricilor, economiștilor și filozofi
 
 
     
-        <script type="text/javascript" src="/js/ga.js"></script>
+        <script type="text/javascript" src="/js/"></script>
     
 
 
