@@ -6,3 +6,5 @@ author: Florin Cojocariu
 ---
 Un body mic
 Dupa ce am modificat config.yml am mai scris asta ca sa fortam un update
+
+dupa ce am sters cloudflare pages antimaterie
