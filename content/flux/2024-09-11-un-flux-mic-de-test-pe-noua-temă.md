@@ -6,5 +6,3 @@ author: Florin Cojocariu
 ---
 Un body mic
 Dupa ce am modificat config.yml am mai scris asta ca sa fortam un update
-
-Si inca unul
