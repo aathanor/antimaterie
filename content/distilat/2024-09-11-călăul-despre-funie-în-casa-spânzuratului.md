@@ -2,6 +2,7 @@
 title: Călăul despre funie în casa spânzuratului
 date: 2024-09-11 08:57
 image: /images/uploads/captură-de-ecran-din-2024-09-11-la-08.36.57.png
+author: Florin Cojocariu
 ---
 Raportul Draghi care deplânge scăderea competitivității europene e suspect prin însuși realizatorul lui. Dar înainte de a intra în detalii, un grafic important care arată că sub politicile noii UE, după 2007-2008, are loc o decuplare a economiei Italiei de la motorul franco-german. Motivul fundamental e în politicile monetare (care au generat un soi de inflație mascată, resimțită după introducerea euro de toți cetățenii care comparau puterea de cumpărare ale vechilor monede cu cea a euro) cuplate cu o mulțime de restricții în sectoare tradiționale, cum ar fi pescuitul (restricții care au aruncat în sărăcie zone vaste din sudul Europei). Orice analiză pe rezultate macroeconomice între 200 și prezent arată același lucru: Germania și în mai mică măsură Franța sunt singurii beneficiari ai politicilor europene. Motivele sunt, desigur, mascate de tot felul de argumente elaborate legate de competitivitate.
 
